@@ -1,0 +1,9 @@
+PackageIdentifier: Surdy.Nimble
+PackageVersion: 0.3.0
+InstallerType: wix
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://github.com/surdy/nimble/releases/download/v0.3.0/Nimble_0.3.0_x64_en-US.msi
+    InstallerSha256: b76c374d1afebb4e3fb27c0cee6236fdf0dd2e34ae03dcab41dd5d43f2af5da4
+ManifestType: installer
+ManifestVersion: 1.6.0
