@@ -1,0 +1,15 @@
+PackageIdentifier: Surdy.Nimble
+PackageVersion: 0.10.0
+PackageLocale: en-US
+Publisher: Surdy
+PublisherUrl: https://github.com/surdy
+PackageName: Nimble
+PackageUrl: https://github.com/surdy/nimble
+License: MIT
+ShortDescription: A cross-platform command-driven desktop launcher
+Tags:
+  - launcher
+  - productivity
+  - keyboard
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
